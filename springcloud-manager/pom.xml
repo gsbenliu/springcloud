@@ -16,7 +16,10 @@
     </properties>
 
     <dependencies>
-
+        <dependency>
+            <groupId>com.example.springcloud</groupId>
+            <artifactId>springcloud-dal</artifactId>
+        </dependency>
     </dependencies>
 
 </project>

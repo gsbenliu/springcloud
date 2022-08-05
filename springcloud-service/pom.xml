@@ -16,6 +16,17 @@
     </properties>
 
     <dependencies>
-
+        <dependency>
+            <groupId>com.example.springcloud</groupId>
+            <artifactId>springcloud-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.example.springcloud</groupId>
+            <artifactId>springcloud-biz</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.example.springcloud</groupId>
+            <artifactId>springcloud-core</artifactId>
+        </dependency>
     </dependencies>
 </project>
