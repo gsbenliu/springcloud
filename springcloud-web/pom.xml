@@ -158,7 +158,6 @@
                     <verbose>true</verbose>
                     <generateGitPropertiesFile>true</generateGitPropertiesFile>
                     <injectAllReactorProjects>true</injectAllReactorProjects>
-                    <dotGitDirectory>${project.basedir}/../.git</dotGitDirectory>
                 </configuration>
             </plugin>
             <plugin>
